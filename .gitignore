@@ -1,0 +1,9 @@
+# Сборка (exe публикуется в Releases) и скачанный рядом zapret
+dist/
+*.exe
+*.pdb
+
+# Системное
+Thumbs.db
+desktop.ini
+*.tmp

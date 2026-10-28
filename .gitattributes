@@ -1,0 +1,5 @@
+* text=auto
+# cmd ломается на LF-переводах строк
+*.bat text eol=crlf
+*.png binary
+*.ico binary
